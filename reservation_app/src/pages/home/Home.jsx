@@ -8,6 +8,7 @@ import { PropertyList } from "../../components/propertyList/PropertyList"
 import * as Styled from "./Styled"
 
 export const Home = () => {
+  
   return (
     <Styled.Home>
       <Navbar />
